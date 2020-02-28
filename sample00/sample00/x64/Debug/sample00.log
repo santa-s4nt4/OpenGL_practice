@@ -1,0 +1,15 @@
+﻿  main.cpp
+main.obj : error LNK2019: 未解決の外部シンボル glewInit が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwInit が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwTerminate が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwWindowHint が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwCreateWindow が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwWindowShouldClose が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwWaitEvents が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwMakeContextCurrent が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwSwapBuffers が関数 main で参照されました。
+main.obj : error LNK2019: 未解決の外部シンボル glfwSwapInterval が関数 main で参照されました。
+main.obj : error LNK2001: 外部シンボル "glewExperimental" は未解決です。
+C:\OpenGL\lib\glfw3.lib : warning LNK4272: ライブラリのコンピューターの種類 'x86' がターゲットのコンピューターの種類' x64' と競合しています
+C:\OpenGL\lib\libglew32d.lib : warning LNK4272: ライブラリのコンピューターの種類 'x86' がターゲットのコンピューターの種類' x64' と競合しています
+C:\Users\santa\Desktop\OpenGL\sample00\x64\Debug\sample00.exe : fatal error LNK1120: 11 件の未解決の外部参照
